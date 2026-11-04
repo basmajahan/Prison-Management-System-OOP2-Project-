@@ -1,0 +1,353 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\basma\\Downloads\\C# Project\\Prison Management System\\Prison Management System\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D0FE247B-8020-410F-BE12-B9750294D368}|Prison Management System\\Prison Management System.csproj|c:\\users\\basma\\downloads\\c# project\\prison management system\\prison management system\\prison management system\\visit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D0FE247B-8020-410F-BE12-B9750294D368}|Prison Management System\\Prison Management System.csproj|solutionrelative:prison management system\\visit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0FE247B-8020-410F-BE12-B9750294D368}|Prison Management System\\Prison Management System.csproj|C:\\Users\\basma\\Downloads\\C# Project\\Prison Management System\\Prison Management System\\prison management system\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D0FE247B-8020-410F-BE12-B9750294D368}|Prison Management System\\Prison Management System.csproj|solutionrelative:prison management system\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0FE247B-8020-410F-BE12-B9750294D368}|Prison Management System\\Prison Management System.csproj|c:\\users\\basma\\downloads\\c# project\\prison management system\\prison management system\\prison management system\\prisoner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0FE247B-8020-410F-BE12-B9750294D368}|Prison Management System\\Prison Management System.csproj|solutionrelative:prison management system\\prisoner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0FE247B-8020-410F-BE12-B9750294D368}|Prison Management System\\Prison Management System.csproj|c:\\users\\basma\\downloads\\c# project\\prison management system\\prison management system\\prison management system\\officer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0FE247B-8020-410F-BE12-B9750294D368}|Prison Management System\\Prison Management System.csproj|solutionrelative:prison management system\\officer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0FE247B-8020-410F-BE12-B9750294D368}|Prison Management System\\Prison Management System.csproj|c:\\users\\basma\\downloads\\c# project\\prison management system\\prison management system\\prison management system\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0FE247B-8020-410F-BE12-B9750294D368}|Prison Management System\\Prison Management System.csproj|solutionrelative:prison management system\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0FE247B-8020-410F-BE12-B9750294D368}|Prison Management System\\Prison Management System.csproj|c:\\users\\basma\\downloads\\c# project\\prison management system\\prison management system\\prison management system\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0FE247B-8020-410F-BE12-B9750294D368}|Prison Management System\\Prison Management System.csproj|solutionrelative:prison management system\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0FE247B-8020-410F-BE12-B9750294D368}|Prison Management System\\Prison Management System.csproj|C:\\Users\\basma\\Downloads\\C# Project\\Prison Management System\\Prison Management System\\prison management system\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D0FE247B-8020-410F-BE12-B9750294D368}|Prison Management System\\Prison Management System.csproj|solutionrelative:prison management system\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0FE247B-8020-410F-BE12-B9750294D368}|Prison Management System\\Prison Management System.csproj|C:\\Users\\basma\\Downloads\\C# Project\\Prison Management System\\Prison Management System\\prison management system\\prisoner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D0FE247B-8020-410F-BE12-B9750294D368}|Prison Management System\\Prison Management System.csproj|solutionrelative:prison management system\\prisoner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0FE247B-8020-410F-BE12-B9750294D368}|Prison Management System\\Prison Management System.csproj|C:\\Users\\basma\\Downloads\\C# Project\\Prison Management System\\Prison Management System\\prison management system\\prisoner(rating).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D0FE247B-8020-410F-BE12-B9750294D368}|Prison Management System\\Prison Management System.csproj|solutionrelative:prison management system\\prisoner(rating).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0FE247B-8020-410F-BE12-B9750294D368}|Prison Management System\\Prison Management System.csproj|C:\\Users\\basma\\Downloads\\C# Project\\Prison Management System\\Prison Management System\\prison management system\\prisoner(dashboard).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D0FE247B-8020-410F-BE12-B9750294D368}|Prison Management System\\Prison Management System.csproj|solutionrelative:prison management system\\prisoner(dashboard).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0FE247B-8020-410F-BE12-B9750294D368}|Prison Management System\\Prison Management System.csproj|c:\\users\\basma\\downloads\\c# project\\prison management system\\prison management system\\prison management system\\prisoner(dashboard).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0FE247B-8020-410F-BE12-B9750294D368}|Prison Management System\\Prison Management System.csproj|solutionrelative:prison management system\\prisoner(dashboard).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0FE247B-8020-410F-BE12-B9750294D368}|Prison Management System\\Prison Management System.csproj|C:\\Users\\basma\\Downloads\\C# Project\\Prison Management System\\Prison Management System\\prison management system\\officer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D0FE247B-8020-410F-BE12-B9750294D368}|Prison Management System\\Prison Management System.csproj|solutionrelative:prison management system\\officer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0FE247B-8020-410F-BE12-B9750294D368}|Prison Management System\\Prison Management System.csproj|C:\\Users\\basma\\Downloads\\C# Project\\Prison Management System\\Prison Management System\\prison management system\\officer(dashboard).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D0FE247B-8020-410F-BE12-B9750294D368}|Prison Management System\\Prison Management System.csproj|solutionrelative:prison management system\\officer(dashboard).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0FE247B-8020-410F-BE12-B9750294D368}|Prison Management System\\Prison Management System.csproj|c:\\users\\basma\\downloads\\c# project\\prison management system\\prison management system\\prison management system\\officer(dashboard).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0FE247B-8020-410F-BE12-B9750294D368}|Prison Management System\\Prison Management System.csproj|solutionrelative:prison management system\\officer(dashboard).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0FE247B-8020-410F-BE12-B9750294D368}|Prison Management System\\Prison Management System.csproj|C:\\Users\\basma\\Downloads\\C# Project\\Prison Management System\\Prison Management System\\prison management system\\individual(prisoner).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D0FE247B-8020-410F-BE12-B9750294D368}|Prison Management System\\Prison Management System.csproj|solutionrelative:prison management system\\individual(prisoner).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0FE247B-8020-410F-BE12-B9750294D368}|Prison Management System\\Prison Management System.csproj|C:\\Users\\basma\\Downloads\\C# Project\\Prison Management System\\Prison Management System\\prison management system\\individual(officer).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D0FE247B-8020-410F-BE12-B9750294D368}|Prison Management System\\Prison Management System.csproj|solutionrelative:prison management system\\individual(officer).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0FE247B-8020-410F-BE12-B9750294D368}|Prison Management System\\Prison Management System.csproj|C:\\Users\\basma\\Downloads\\C# Project\\Prison Management System\\Prison Management System\\prison management system\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D0FE247B-8020-410F-BE12-B9750294D368}|Prison Management System\\Prison Management System.csproj|solutionrelative:prison management system\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0FE247B-8020-410F-BE12-B9750294D368}|Prison Management System\\Prison Management System.csproj|c:\\users\\basma\\downloads\\c# project\\prison management system\\prison management system\\prison management system\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0FE247B-8020-410F-BE12-B9750294D368}|Prison Management System\\Prison Management System.csproj|solutionrelative:prison management system\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0FE247B-8020-410F-BE12-B9750294D368}|Prison Management System\\Prison Management System.csproj|c:\\users\\basma\\downloads\\c# project\\prison management system\\prison management system\\prison management system\\individual(prisoner).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0FE247B-8020-410F-BE12-B9750294D368}|Prison Management System\\Prison Management System.csproj|solutionrelative:prison management system\\individual(prisoner).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0FE247B-8020-410F-BE12-B9750294D368}|Prison Management System\\Prison Management System.csproj|c:\\users\\basma\\downloads\\c# project\\prison management system\\prison management system\\prison management system\\individual(officer).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0FE247B-8020-410F-BE12-B9750294D368}|Prison Management System\\Prison Management System.csproj|solutionrelative:prison management system\\individual(officer).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0FE247B-8020-410F-BE12-B9750294D368}|Prison Management System\\Prison Management System.csproj|c:\\users\\basma\\downloads\\c# project\\prison management system\\prison management system\\prison management system\\visit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0FE247B-8020-410F-BE12-B9750294D368}|Prison Management System\\Prison Management System.csproj|solutionrelative:prison management system\\visit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "C:\\Users\\basma\\Downloads\\C# Project\\Prison Management System\\Prison Management System\\Prison Management System\\Admin.cs",
+              "RelativeDocumentMoniker": "Prison Management System\\Admin.cs",
+              "ToolTip": "C:\\Users\\basma\\Downloads\\C# Project\\Prison Management System\\Prison Management System\\Prison Management System\\Admin.cs",
+              "RelativeToolTip": "Prison Management System\\Admin.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAawCMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T04:17:55.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Visit.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\basma\\Downloads\\C# Project\\Prison Management System\\Prison Management System\\Prison Management System\\Visit.cs",
+              "RelativeDocumentMoniker": "Prison Management System\\Visit.cs",
+              "ToolTip": "C:\\Users\\basma\\Downloads\\C# Project\\Prison Management System\\Prison Management System\\Prison Management System\\Visit.cs [Design]",
+              "RelativeToolTip": "Prison Management System\\Visit.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T04:17:56.159Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomePage.cs",
+              "DocumentMoniker": "C:\\Users\\basma\\Downloads\\C# Project\\Prison Management System\\Prison Management System\\Prison Management System\\HomePage.cs",
+              "RelativeDocumentMoniker": "Prison Management System\\HomePage.cs",
+              "ToolTip": "C:\\Users\\basma\\Downloads\\C# Project\\Prison Management System\\Prison Management System\\Prison Management System\\HomePage.cs",
+              "RelativeToolTip": "Prison Management System\\HomePage.cs",
+              "ViewState": "AgIAAA4BAAAAAAAAAAD4vyEBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T04:17:55.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Officer.cs",
+              "DocumentMoniker": "C:\\Users\\basma\\Downloads\\C# Project\\Prison Management System\\Prison Management System\\Prison Management System\\Officer.cs",
+              "RelativeDocumentMoniker": "Prison Management System\\Officer.cs",
+              "ToolTip": "C:\\Users\\basma\\Downloads\\C# Project\\Prison Management System\\Prison Management System\\Prison Management System\\Officer.cs",
+              "RelativeToolTip": "Prison Management System\\Officer.cs",
+              "ViewState": "AgIAAM8AAAAAAAAAAAAlwOEAAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T04:17:55.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Prisoner.cs",
+              "DocumentMoniker": "C:\\Users\\basma\\Downloads\\C# Project\\Prison Management System\\Prison Management System\\Prison Management System\\Prisoner.cs",
+              "RelativeDocumentMoniker": "Prison Management System\\Prisoner.cs",
+              "ToolTip": "C:\\Users\\basma\\Downloads\\C# Project\\Prison Management System\\Prison Management System\\Prison Management System\\Prisoner.cs",
+              "RelativeToolTip": "Prison Management System\\Prisoner.cs",
+              "ViewState": "AgIAANUAAAAAAAAAAAAlwOcAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T04:17:55.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Registration.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\basma\\Downloads\\C# Project\\Prison Management System\\Prison Management System\\Prison Management System\\Registration.cs",
+              "RelativeDocumentMoniker": "Prison Management System\\Registration.cs",
+              "ToolTip": "C:\\Users\\basma\\Downloads\\C# Project\\Prison Management System\\Prison Management System\\Prison Management System\\Registration.cs [Design]",
+              "RelativeToolTip": "Prison Management System\\Registration.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T04:17:56.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomePage.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\basma\\Downloads\\C# Project\\Prison Management System\\Prison Management System\\Prison Management System\\HomePage.cs",
+              "RelativeDocumentMoniker": "Prison Management System\\HomePage.cs",
+              "ToolTip": "C:\\Users\\basma\\Downloads\\C# Project\\Prison Management System\\Prison Management System\\Prison Management System\\HomePage.cs [Design]",
+              "RelativeToolTip": "Prison Management System\\HomePage.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T04:17:56.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Registration.cs",
+              "DocumentMoniker": "C:\\Users\\basma\\Downloads\\C# Project\\Prison Management System\\Prison Management System\\Prison Management System\\Registration.cs",
+              "RelativeDocumentMoniker": "Prison Management System\\Registration.cs",
+              "ToolTip": "C:\\Users\\basma\\Downloads\\C# Project\\Prison Management System\\Prison Management System\\Prison Management System\\Registration.cs",
+              "RelativeToolTip": "Prison Management System\\Registration.cs",
+              "ViewState": "AgIAAIYAAAAAAAAAAAAtwJkAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T04:17:55.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Officer(Dashboard).cs",
+              "DocumentMoniker": "C:\\Users\\basma\\Downloads\\C# Project\\Prison Management System\\Prison Management System\\Prison Management System\\Officer(Dashboard).cs",
+              "RelativeDocumentMoniker": "Prison Management System\\Officer(Dashboard).cs",
+              "ToolTip": "C:\\Users\\basma\\Downloads\\C# Project\\Prison Management System\\Prison Management System\\Prison Management System\\Officer(Dashboard).cs",
+              "RelativeToolTip": "Prison Management System\\Officer(Dashboard).cs",
+              "ViewState": "AgIAAHYAAAAAAAAAAAAWwIoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T04:17:55.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Visit.cs",
+              "DocumentMoniker": "C:\\Users\\basma\\Downloads\\C# Project\\Prison Management System\\Prison Management System\\Prison Management System\\Visit.cs",
+              "RelativeDocumentMoniker": "Prison Management System\\Visit.cs",
+              "ToolTip": "C:\\Users\\basma\\Downloads\\C# Project\\Prison Management System\\Prison Management System\\Prison Management System\\Visit.cs",
+              "RelativeToolTip": "Prison Management System\\Visit.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T04:17:56.165Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Individual(Officer).cs [Design]",
+              "DocumentMoniker": "C:\\Users\\basma\\Downloads\\C# Project\\Prison Management System\\Prison Management System\\Prison Management System\\Individual(Officer).cs",
+              "RelativeDocumentMoniker": "Prison Management System\\Individual(Officer).cs",
+              "ToolTip": "C:\\Users\\Tanvir\\OneDrive\\Desktop\\Prison Management System\\Prison Management System\\Individual(Officer).cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Tanvir\\OneDrive\\Desktop\\Prison Management System\\Prison Management System\\Individual(Officer).cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T04:17:56.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Individual(Officer).cs",
+              "DocumentMoniker": "C:\\Users\\basma\\Downloads\\C# Project\\Prison Management System\\Prison Management System\\Prison Management System\\Individual(Officer).cs",
+              "RelativeDocumentMoniker": "Prison Management System\\Individual(Officer).cs",
+              "ToolTip": "C:\\Users\\basma\\Downloads\\C# Project\\Prison Management System\\Prison Management System\\Prison Management System\\Individual(Officer).cs",
+              "RelativeToolTip": "Prison Management System\\Individual(Officer).cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T04:17:56.169Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Admin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\basma\\Downloads\\C# Project\\Prison Management System\\Prison Management System\\Prison Management System\\Admin.cs",
+              "RelativeDocumentMoniker": "Prison Management System\\Admin.cs",
+              "ToolTip": "C:\\Users\\Tanvir\\OneDrive\\Desktop\\Prison Management System\\Prison Management System\\Admin.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Tanvir\\OneDrive\\Desktop\\Prison Management System\\Prison Management System\\Admin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T04:17:56.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Prisoner.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\basma\\Downloads\\C# Project\\Prison Management System\\Prison Management System\\Prison Management System\\Prisoner.cs",
+              "RelativeDocumentMoniker": "Prison Management System\\Prisoner.cs",
+              "ToolTip": "C:\\Users\\Tanvir\\OneDrive\\Desktop\\Prison Management System\\Prison Management System\\Prisoner.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Tanvir\\OneDrive\\Desktop\\Prison Management System\\Prison Management System\\Prisoner.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T04:17:56.204Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Prisoner(Rating).cs [Design]",
+              "DocumentMoniker": "C:\\Users\\basma\\Downloads\\C# Project\\Prison Management System\\Prison Management System\\Prison Management System\\Prisoner(Rating).cs",
+              "RelativeDocumentMoniker": "Prison Management System\\Prisoner(Rating).cs",
+              "ToolTip": "C:\\Users\\Tanvir\\OneDrive\\Desktop\\Prison Management System\\Prison Management System\\Prisoner(Rating).cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Tanvir\\OneDrive\\Desktop\\Prison Management System\\Prison Management System\\Prisoner(Rating).cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T04:17:56.204Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Prisoner(Dashboard).cs",
+              "DocumentMoniker": "C:\\Users\\basma\\Downloads\\C# Project\\Prison Management System\\Prison Management System\\Prison Management System\\Prisoner(Dashboard).cs",
+              "RelativeDocumentMoniker": "Prison Management System\\Prisoner(Dashboard).cs",
+              "ToolTip": "C:\\Users\\basma\\Downloads\\C# Project\\Prison Management System\\Prison Management System\\Prison Management System\\Prisoner(Dashboard).cs",
+              "RelativeToolTip": "Prison Management System\\Prisoner(Dashboard).cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAWwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T04:17:56.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Prisoner(Dashboard).cs [Design]",
+              "DocumentMoniker": "C:\\Users\\basma\\Downloads\\C# Project\\Prison Management System\\Prison Management System\\Prison Management System\\Prisoner(Dashboard).cs",
+              "RelativeDocumentMoniker": "Prison Management System\\Prisoner(Dashboard).cs",
+              "ToolTip": "C:\\Users\\Tanvir\\OneDrive\\Desktop\\Prison Management System\\Prison Management System\\Prisoner(Dashboard).cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Tanvir\\OneDrive\\Desktop\\Prison Management System\\Prison Management System\\Prisoner(Dashboard).cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T04:17:56.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Officer.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\basma\\Downloads\\C# Project\\Prison Management System\\Prison Management System\\Prison Management System\\Officer.cs",
+              "RelativeDocumentMoniker": "Prison Management System\\Officer.cs",
+              "ToolTip": "C:\\Users\\Tanvir\\OneDrive\\Desktop\\Prison Management System\\Prison Management System\\Officer.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Tanvir\\OneDrive\\Desktop\\Prison Management System\\Prison Management System\\Officer.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T04:17:56.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Officer(Dashboard).cs [Design]",
+              "DocumentMoniker": "C:\\Users\\basma\\Downloads\\C# Project\\Prison Management System\\Prison Management System\\Prison Management System\\Officer(Dashboard).cs",
+              "RelativeDocumentMoniker": "Prison Management System\\Officer(Dashboard).cs",
+              "ToolTip": "C:\\Users\\Tanvir\\OneDrive\\Desktop\\Prison Management System\\Prison Management System\\Officer(Dashboard).cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Tanvir\\OneDrive\\Desktop\\Prison Management System\\Prison Management System\\Officer(Dashboard).cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T04:17:56.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Individual(Prisoner).cs",
+              "DocumentMoniker": "C:\\Users\\basma\\Downloads\\C# Project\\Prison Management System\\Prison Management System\\Prison Management System\\Individual(Prisoner).cs",
+              "RelativeDocumentMoniker": "Prison Management System\\Individual(Prisoner).cs",
+              "ToolTip": "C:\\Users\\basma\\Downloads\\C# Project\\Prison Management System\\Prison Management System\\Prison Management System\\Individual(Prisoner).cs",
+              "RelativeToolTip": "Prison Management System\\Individual(Prisoner).cs",
+              "ViewState": "AgIAAAQBAAAAAAAAAAAmwCwBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T04:17:56.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Individual(Prisoner).cs [Design]",
+              "DocumentMoniker": "C:\\Users\\basma\\Downloads\\C# Project\\Prison Management System\\Prison Management System\\Prison Management System\\Individual(Prisoner).cs",
+              "RelativeDocumentMoniker": "Prison Management System\\Individual(Prisoner).cs",
+              "ToolTip": "C:\\Users\\Tanvir\\OneDrive\\Desktop\\Prison Management System\\Prison Management System\\Individual(Prisoner).cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Tanvir\\OneDrive\\Desktop\\Prison Management System\\Prison Management System\\Individual(Prisoner).cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T04:17:56.243Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

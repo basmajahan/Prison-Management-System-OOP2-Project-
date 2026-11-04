@@ -1,0 +1,110 @@
+--Here all quries for SQL:
+-- ১. BLOCKS টেবিল তৈরি
+CREATE TABLE Blocks (
+    Block_Name VARCHAR(50) PRIMARY KEY,
+    Cell_Type VARCHAR(50) NOT NULL
+);
+
+-- ২. CELLS টেবিল তৈরি
+CREATE TABLE Cells (
+    Cell_ID INT PRIMARY KEY,
+    Block_Name VARCHAR(50),
+    Cell_Type VARCHAR(50) NOT NULL,
+    Cell_Capacity INT NOT NULL,
+    FOREIGN KEY (Block_Name) REFERENCES Blocks(Block_Name) 
+        ON DELETE CASCADE ON UPDATE CASCADE
+);
+
+-- ৩. PRISONERS টেবিল তৈরি
+CREATE TABLE Prisoners (
+    Prisoner_ID INT IDENTITY(1,1) PRIMARY KEY, -- অটো-ইনক্রিমেন্ট আইডি
+    Prisoner_Name VARCHAR(100) NOT NULL,
+    Prisoner_NID VARCHAR(20) UNIQUE NOT NULL,
+    Prisoner_Age INT,
+    Date_Of_Birth DATE,
+    Crime_Type VARCHAR(100),
+    Admission_Date DATE NOT NULL,
+    Discharge_Date DATE,
+    Cell_ID INT,
+    Prisoner_Rating INT CHECK (Prisoner_Rating BETWEEN 1 AND 5), -- উদাহরণস্বরূপ ১-৫ রেটিং
+    FOREIGN KEY (Cell_ID) REFERENCES Cells(Cell_ID) 
+        ON DELETE SET NULL ON UPDATE CASCADE
+);
+
+-- ৪. ADMIN টেবিল তৈরি
+CREATE TABLE Admin (
+    Admin_NID VARCHAR(20) PRIMARY KEY,
+    Password VARCHAR(255) NOT NULL -- সিকিউরিটির জন্য পাসওয়ার্ডের লেন্থ বেশি রাখা ভালো
+);
+
+-- ৫. OFFICERS টেবিল তৈরি
+CREATE TABLE Officers (
+    Officer_ID INT PRIMARY KEY,
+    Officer_Name VARCHAR(100) NOT NULL,
+    Officer_NID VARCHAR(20) UNIQUE NOT NULL,
+    Officer_Contact VARCHAR(15),
+    Email VARCHAR(100) UNIQUE,
+    Shift VARCHAR(20), -- যেমন: Morning, Day, Night
+    Status VARCHAR(20) -- যেমন: Active, On Leave
+);
+
+-- ৬. VISITORS টেবিল তৈরি
+CREATE TABLE Visitors (
+    Visitor_NID VARCHAR(20) PRIMARY KEY,
+    Visitor_Name VARCHAR(100) NOT NULL,
+    Date_Of_Birth DATE,
+    Gender VARCHAR(10),
+    Prisoner_ID INT, -- কোন বন্দীর সাথে দেখা করতে চান
+    Relation VARCHAR(50),
+    Email VARCHAR(100),
+    Create_Password VARCHAR(255) NOT NULL,
+    FOREIGN KEY (Prisoner_ID) REFERENCES Prisoners(Prisoner_ID) 
+        ON DELETE CASCADE ON UPDATE CASCADE
+);
+
+
+--7.CREATE TABLE VisitRequests (
+    Request_ID      INT IDENTITY(1,1) PRIMARY KEY,
+    Visitor_NID     VARCHAR(20) NOT NULL,
+    Visitor_Name    VARCHAR(100) NOT NULL,
+    Visitor_Email   VARCHAR(100) NOT NULL,
+    Prisoner_ID     INT NOT NULL,
+    Visit_Date      DATE NOT NULL,
+    Visit_Hour      VARCHAR(20) NOT NULL,
+    Visit_Duration  VARCHAR(20) NOT NULL,
+    Status          VARCHAR(20) DEFAULT 'Pending',
+    FOREIGN KEY (Visitor_NID) REFERENCES Visitors(Visitor_NID),
+    FOREIGN KEY (Prisoner_ID) REFERENCES Prisoners(Prisoner_ID)
+);
+
+
+
+INSERT INTO Admin (Admin_NID, Password) 
+VALUES ('1234567890', 'admin123');
+
+
+
+--** SQL Server এ Photo Column যোগ করুন:
+
+ALTER TABLE Officers
+ADD Officer_Photo VARBINARY(MAX) NULL;
+
+ALTER TABLE Prisoners
+ADD Prisoner_Photo VARBINARY(MAX) NULL;
+
+
+
+ — SQL এ Admin_Email যোগ করুন:
+sql-- Admin টেবিলে Email column যোগ করুন
+ALTER TABLE Admin
+ADD Admin_Email NVARCHAR(100) NULL;
+
+
+-- আপনার Admin এর Email update করুন
+UPDATE Admin
+SET Admin_Email = 'lanyfung8@gmail.com'
+WHERE Admin_NID = '00112233';
+
+
+-- Check করুন
+SELECT * FROM Admins;
